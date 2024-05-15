@@ -22,5 +22,6 @@ Like I told Mr. Tonye, I wanted to tackle a small project that would feel meanin
 This is the Figma prototype I started building last night:
 
 - [View the Prototype](https://www.figma.com/proto/KK4T4xOjBMHUwMBIFIkrmE/guardian-newspaper?page-id=44%3A67&node-id=46-283&viewport=417%2C113%2C0.18&t=WAJmO6CyGcQVmnBP-1&scaling=scale-down-width)
+- [View the entire file](https://www.figma.com/design/KK4T4xOjBMHUwMBIFIkrmE/guardian-newspaper?node-id=46%3A283&t=9PcBric9uOzhccic-1)
 <!-- - [view the webpage]() -->
 <!-- - [view the repository]() -->
