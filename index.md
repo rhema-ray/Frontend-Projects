@@ -10,8 +10,8 @@ This is a repository with two projects:
 
 Vwegba is a simple and intuitive landing page exploration for a Nigerian-owned furniture company dedicated to providing exceptional pieces for your home.
 
-- [View the repository](https://github.com/rhema-ray/Frontend-Projects/vwebga)
-- [view the webpage](dev%20challenge%201/index.html)
+- [View the repository](https://github.com/rhema-ray/Frontend-Projects/tree/master/vwebga)
+- [view the webpage](vwebga/index.html)
 
 
 
